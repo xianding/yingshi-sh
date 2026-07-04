@@ -23,5 +23,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/xianding/yingshi-sh/refs/heads
 
 #Realm
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/xianding/yingshi-sh/refs/heads/main/realm.sh)
+curl -L https://raw.githubusercontent.com/xianding/yingshi-sh/refs/heads/main/realm.sh -o realm.sh && chmod +x realm.sh && ./realm.sh
 ```
