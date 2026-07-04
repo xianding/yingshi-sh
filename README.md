@@ -1,5 +1,5 @@
 # DebInstall
-常用一键安装脚本
+常用一键安装脚本 - gemini编写
 
 
 #安装DNS本地缓存
@@ -19,4 +19,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/xianding/DebInstall/refs/heads
 #设置或修改swap
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/xianding/DebInstall/refs/heads/main/set_swap.sh)
+```
+
+#Realm
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/xianding/DebInstall/refs/heads/main/realm.sh)
 ```
